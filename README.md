@@ -3,15 +3,14 @@
 ## 💬 About me 🗨️
 Hi, i´m Victor, I´m currently studying Computer Science at <a href='https://uchile.cl'>Universidad de Chile</a>, at engineering college,  <a href='https://www.dcc.uchile.cl'> CS </a>Department (DCC).
 
-Here are some of the topics I'm interested in: 
+Topics i´m studying right now:
 - 💻 Software Engineering 
-- 🧠 Artificial Intelligence
 - 🔢Data science
 - 📶 Web development
-- 🎮 Videogame Development
 - ⌛ Efficiency
+- Programming languages.
 
-## Languages | Frameworks
+## Languages and Frameworks I'm learning and/or mastering:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +26,7 @@ Here are some of the topics I'm interested in:
 
 ## Top languagues (public repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt07&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/dagt07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/gitonina/github-readme-stats)
 
 ## Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
