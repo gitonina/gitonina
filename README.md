@@ -28,7 +28,7 @@ Topics i´m studying right now:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/gitonina/github-readme-stats)
 
-## Tools
+## Softwares 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-D83B01?style=for-the-badge&logo=pycharm&logoColor=white)
