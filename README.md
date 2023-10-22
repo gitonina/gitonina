@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💬 About me 🗨️
-Hi, i´m Victor, I´m currently studying Computer Science at <a href='https://uchile.cl'>Universidad de Chile</a>, at engineering college,  <a href='https://www.dcc.uchile.cl'> CS </a>Department (DCC).
+Hi, i´m Victor, I´m currently studying Computer Science at <a href='https://uchile.cl'>Universidad de Chile</a>, at engineering college,  <a href='https://www.dcc.uchile.cl'> CS </a>Department (DCC). <img src="https://komarev.com/ghpvc/?username=gitonina"></img>
 
 Topics i´m studying right now:
 - 💻 Software Engineering 
