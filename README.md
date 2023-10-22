@@ -24,9 +24,13 @@ Topics i´m studying right now:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## Top languagues (public repositories)
+## Stats
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitonina)](https://github.com/gitonina/github-readme-stats)
+[![Gitonina's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitonina)](https://github.com/gitonina/github-readme-stats)
+
+
+## Top Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&layout=compact)](https://github.com/gitonina/github-readme-stats)
 
 ## Softwares 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
