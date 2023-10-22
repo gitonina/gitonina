@@ -24,11 +24,6 @@ Topics i´m studying right now:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## Stats
-
-[![Gitonina's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitonina)](https://github.com/gitonina/github-readme-stats)
-
-
 ## Top Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&layout=compact)](https://github.com/gitonina/github-readme-stats)
 
