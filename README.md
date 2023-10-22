@@ -26,7 +26,7 @@ Topics i´m studying right now:
 
 ## Top languagues (public repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/gitonina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitonina&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)]
 
 ## Softwares 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
